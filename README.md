@@ -9,7 +9,7 @@ Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot
   <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image2.JPG">
 </p>
 <p align="center">
-  <img width="460" height="500" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image3.JPG">
+  <img width="460" height="460" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image3.JPG">
 </p>
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image4.JPG">
