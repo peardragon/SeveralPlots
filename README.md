@@ -5,9 +5,17 @@ Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image1.JPG">
 </p>
-![Image1](./image2.JPG?style=centerme)  
-![Image1](./image3.JPG?style=centerme)  
-![Image1](./image4.JPG?style=centerme)  
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image2.JPG">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image3.JPG">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image4.JPG">
+</p>  
+
+
 ## Basic Explanation for Non linear CurveFitting
 Using scipy 1.70 version  
 If Jupyter file make rendering issue,  
