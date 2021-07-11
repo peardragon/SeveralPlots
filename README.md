@@ -1,10 +1,11 @@
 # SeveralPlots
 Code about How to Figure About  
-Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot
-![Image1](./image1.JPG)
-![Image1](./image2.JPG)
-![Image1](./image3.JPG)
-![Image1](./image4.JPG)
+Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot  
+
+![Image1](./image1.JPG?style=centerme)
+![Image1](./image2.JPG?style=centerme)  
+![Image1](./image3.JPG?style=centerme)  
+![Image1](./image4.JPG?style=centerme)  
 ## Basic Explanation for Non linear CurveFitting
 Using scipy 1.70 version  
 If Jupyter file make rendering issue,  
