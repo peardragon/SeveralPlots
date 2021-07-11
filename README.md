@@ -1,8 +1,10 @@
 # SeveralPlots
 Code about How to Figure About  
-Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot  
+Figure for Reports / Error bar / 3D plots / confidence interval / Zoomed plot   
 
-![Image1](./image1.JPG?style=centerme)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/peardragon/SeveralPlots/main/image1.JPG">
+</p>
 ![Image1](./image2.JPG?style=centerme)  
 ![Image1](./image3.JPG?style=centerme)  
 ![Image1](./image4.JPG?style=centerme)  
